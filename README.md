@@ -3,7 +3,7 @@
 <div align="center" style="display: flex; justify-content: center;">
   <a  href="https://github.com/20essentials/project-1375" target="_blank">&#8592;</a>
   &nbsp;&nbsp;
-  <a  href="https://github.com/20essentials/project-1376" target="_blank">&#8594;</a>
+  <a  href="https://github.com/20essentials/project-1377" target="_blank">&#8594;</a>
 </div>
 
 ## 🛠️ Tools & Articles
