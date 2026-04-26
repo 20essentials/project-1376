@@ -9,11 +9,11 @@ export default defineConfig({
     assets: 'static'
   },
 
-  base: import.meta.env.DEV ? undefined : '/project-1020/',
+  base: import.meta.env.DEV ? undefined : '/project-1376/',
 
   site: import.meta.env.DEV
     ? 'http://localhost:4321/'
-    : 'https://20essentials.github.io/project-1020/',
+    : 'https://20essentials.github.io/project-1376/',
 
   integrations: [react()]
 });
