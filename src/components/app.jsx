@@ -13,7 +13,7 @@ import {
 import { MeshLineGeometry, MeshLineMaterial } from 'meshline';
 import { useControls } from 'leva';
 import { baseUrl } from '@/utils/functions';
-const tagAsset = baseUrl('/assets/tag.glb');
+const tagAsset = baseUrl('/assets/tag-new.glb');
 const bandAsset = baseUrl('/assets/band-new.jpg');
 extend({ MeshLineGeometry, MeshLineMaterial });
 useGLTF.preload(tagAsset);
